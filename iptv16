@@ -1019,9 +1019,7 @@ http://cloud.nicefhd.xyz:80/nathan01/nathan01/168073?checkedby:hlscat.com
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99574?checkedby:hlscat.com
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",STINGRAY DJAZZ
 http://iptvturkisch.xyz:7777/huseyinerdem/erdemhuseyin/59507?checkedby:hlscat.com
-
 #EXTM3U $ExtFilter="Turkiye"
-
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",007 JAMES BOND
 http://iptvturkisch.xyz:7777/huseyinerdem/erdemhuseyin/51291?checkedby:hlscat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",13.CUMA
