@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",(GE) 1 TV
-http://tv.cdn.xsg.ge/gpb-1tv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",100% NL TV
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Dutch",100% NL TV
 http://rv.therevenge.co:80/691616211141151/691616211141151/79576?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",100% NL TV
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Dutch",100% NL TV
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/129?checkedby:hlscat.com
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",100% NL TV
 http://rv.therevenge.co:80/691616211141151/691616211141151/79765?checkedby:hlscat.com
