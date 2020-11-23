@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U $ExtFilter="Nederlands"
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",(GE) 1 TV
 http://tv.cdn.xsg.ge/gpb-1tv/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",100% NL TV
